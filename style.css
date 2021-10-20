@@ -500,9 +500,9 @@ header .navbar ul li a:hover{
     .service .box-container .box p {
    
     font-size: 1.3rem;
-    padding: -0.5rem 4rem;
+    padding: 0.5rem 4rem;
 }
     .service .box-container .box {
-    width: 41rem;
+    width: 52rem;
 }
 }
