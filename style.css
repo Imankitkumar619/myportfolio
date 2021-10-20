@@ -502,4 +502,7 @@ header .navbar ul li a:hover{
     font-size: 1.3rem;
     padding: -0.5rem 4rem;
 }
+    .service .box-container .box {
+    width: 41rem;
+}
 }
