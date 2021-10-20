@@ -1,5 +1,5 @@
 *{
-    margin:1px; padding:0;
+    margin:0px; padding:0;
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-transform: capitalize;
@@ -30,7 +30,7 @@ section{
         padding: 1rem 7%;
         min-height: 100%;
         color: black;
-        width: 104rem;
+        width: 82rem;
     
 }
 
@@ -298,13 +298,13 @@ header .navbar ul li a:hover{
 }
 
 .service .box-container .box{
-    margin:1rem;
-    padding:1rem;
+      margin: 1rem;
+    padding: 0rem;
     border-radius: 1rem;
-    box-shadow: 0 1rem 2rem rgba(0,0,0,.2);
+    box-shadow: 0 1rem 2rem rgb(0 0 0 / 20%);
     background: rgba(255,255,255,.2);
     text-align: center;
-    width:32rem;
+    width: 32rem;
 }
 
 .service .box-container .box i{
@@ -489,7 +489,7 @@ header .navbar ul li a:hover{
 }
     section{
     
-        padding: 1rem 34%;
-    
+        padding:1rem 34%;
+        width: 104rem;
 }
 }
