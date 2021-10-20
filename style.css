@@ -27,7 +27,7 @@ body{
 
 section{
     
-        padding: 1rem 34%;
+        padding: 1rem 7%;
         min-height: 100%;
         color: black;
         width: 104rem;
@@ -486,5 +486,10 @@ header .navbar ul li a:hover{
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 0rem 0;
+}
+    section{
+    
+        padding: 1rem 34%;
+    
 }
 }
